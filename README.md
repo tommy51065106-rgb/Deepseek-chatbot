@@ -36,23 +36,6 @@ Use case: provide concise, actionable fitness suggestions grounded in trusted co
 - Persistent memory via `memory-store/default.json`
 - Backend endpoints for health checks, retrieval, chat, and memory reset
 
-## Architecture
-
-```mermaid
-flowchart LR
-  A[React Native App] -->|POST /chat| B[Express Backend]
-  A -->|DELETE /memory| B
-  B --> C[Load chat memory JSON]
-  B --> D[Embed query with Gemini]
-  D --> E[Compare against indexed knowledge chunks]
-  E --> F[Build expert context prompt]
-  B --> G[Call DeepSeek Chat API]
-  F --> G
-  C --> G
-  G --> B
-  B -->|reply + updated messages| A
-```
-
 ## Project Structure
 
 ```text
@@ -87,7 +70,7 @@ Create a `.env` file in the project root:
 DEEPSEEK_API_KEY=your_deepseek_key
 GEMINI_API_KEY=your_gemini_key
 DEEPSEEK_API_URL=https://api.deepseek.com/v1/chat/completions
-PORT=3001
+PORT=3000
 ```
 
 Notes:
@@ -110,7 +93,7 @@ Use two terminals.
 npm run rag:backend
 ```
 
-Expected backend URL: `http://localhost:3001`
+Expected backend URL: `http://localhost:3000`
 
 ### 2) Start mobile app
 
@@ -129,8 +112,8 @@ npm run ios
 ## Mobile ↔ Backend Networking
 
 `components/ChatScreen.js` uses platform-specific backend URLs:
-- Android emulator: `http://10.0.2.2:3001`
-- iOS simulator / web: `http://localhost:3001`
+- Android emulator: `http://10.0.2.2:3000`
+- iOS simulator / web: `http://localhost:3000`
 
 If testing on a physical device, update the backend URL to your machine LAN IP.
 
