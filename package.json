@@ -5,15 +5,28 @@
   "main": "index.js",
   "scripts": {
     "start": "expo start --dev-client",
+    "rag:backend": "node rag-backend.js",
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/cli-server-api": "^20.0.2",
+    "axios": "^1.12.2",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
     "expo": "~54.0.8",
+    "expo-document-picker": "~14.0.8",
+    "expo-file-system": "~19.0.21",
     "expo-status-bar": "~3.0.8",
+    "express": "^5.2.1",
+    "multer": "^2.1.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.34.0",
+    "papaparse": "^5.5.3",
     "react": "19.1.0",
-    "react-native": "0.81.4"
+    "react-native": "^0.81.4",
+    "react-native-paper": "^5.14.5"
   },
   "private": true
 }

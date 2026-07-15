@@ -1,0 +1,19 @@
+Creatine and muscle strength evidence summary
+Source context: Wang et al. 2024, Nutrients. Population: healthy adults younger than 50. Intervention: creatine monohydrate combined with structured resistance training. Study quality in the source summary: PEDro 7.0.
+
+Main efficacy finding
+Creatine plus resistance training significantly improved strength compared with placebo plus resistance training in adults under 50. Reported average gains were about 4.43 kg for upper-body strength and 11.35 kg for lower-body strength.
+
+Sex-specific finding in this analysis
+In this specific meta-analysis, statistically significant effects were clearer in males. Reported values were around 4.95 kg upper-body and 11.68 kg lower-body. Female subgroup estimates were positive but did not reach statistical significance in that dataset.
+
+Practical dosage ranges used in the literature
+Typical loading phase: 15 to 25 grams per day for 5 to 7 days.
+Typical maintenance phase: 2 to 10 grams per day.
+Some analyses suggest maintenance above 5 grams per day may produce larger lower-body effects than maintenance at or below 5 grams per day.
+
+Likely mechanisms
+Creatine may improve repeated high-intensity performance through faster phosphocreatine recovery and ATP resynthesis. It may also improve metabolic buffering during intense effort and support training quality over time.
+
+Implementation note
+Benefits are most reliable when creatine is paired with progressive, structured resistance training rather than taken alone.

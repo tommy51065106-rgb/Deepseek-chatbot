@@ -1,0 +1,25 @@
+HRV AND WORKLOAD-INJURY RELATIONSHIP SUMMARY
+Source: Williams et al. 2017 (JSSM)
+
+1. CORE EFFICACY FINDING:
+- HRV as a Moderator: Heart Rate Variability (HRV) acts as a critical buffer between training workload and injury risk.
+- Interaction Effect: High Acute:Chronic Workload Ratios (ACWR) increase injury risk significantly more when paired with low HRV.
+- Resilience: Stable or high HRV indicates physiological recovery is keeping pace with external demands, buffering the negative effects of workload spikes.
+
+2. SPECIFIC RISK METRICS:
+- High-Risk Zone: A high ACWR combined with a low LnRMSSD (HRV) tertile results in the greatest likelihood of overuse injury in the following week.
+- Baseline Tracking: Individualized z-scores are used to determine "low" vs. "normal" HRV, ensuring the data is specific to the athlete's unique physiology.
+
+3. PROTOCOL & MEASUREMENT:
+- Metric: Daily resting HRV (specifically LnRMSSD) and a 7-day rolling average.
+- Workload Calculation: Session-RPE (Rate of Perceived Exertion) × Duration (minutes).
+- ACWR: Ratio of the current week’s workload (acute) to the 4-week average (chronic).
+
+4. BIOLOGICAL MECHANISMS:
+- Autonomic Balance: Reflects the ratio of sympathetic (stress) to parasympathetic (recovery) activity.
+- Early Warning System: Low HRV serves as a systemic indicator of fatigue and reduced adaptive capacity before physical pain or clinical injury manifests.
+- Homeostasis: Stable HRV confirms the body is successfully managing high physical stress levels.
+
+5. IMPLEMENTATION STRATEGY:
+- Holistic Analysis: Never view training volume in isolation.
+- Risk Threshold: A training spike (ACWR > 1.5) requires immediate caution or load reduction if the 7-day HRV average is trending below the individual baseline.

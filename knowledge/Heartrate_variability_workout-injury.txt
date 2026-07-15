@@ -1,0 +1,27 @@
+Heart Rate Variability and Workload-Injury Summary
+Source context: Williams et al. 2017, Journal of Sports Science and Medicine (JSSM).
+
+Main efficacy finding
+HRV acts as a significant moderating factor in the relationship between training workload and injury risk. High ACWR (workload spikes) 
+increases injury risk, but this risk is significantly higher when accompanied by low HRV. 
+Conversely, stable or high HRV can buffer the negative effects of increased training loads.
+
+Specific finding in this analysis
+- High Risk Zone: A "high" ACWR combined with a "low" Ln rMSSD (HRV) tertile results in the greatest likelihood of overuse injury in the subsequent week.
+- Protective Buffer: Athletes with "normal" or "high" HRV are more resilient to training load increases, 
+ suggesting their physiological recovery systems are keeping pace with external demands.
+- Baseline Comparison: The study uses within-individual z-scores to determine what constitutes "low" or "normal" for each specific athlete.
+
+Practical dosage and protocol ranges used in the literature
+- Monitoring Tool: Daily resting HRV (specifically Ln rMSSD).
+- ACWR Calculation: Ratio of the current week's workload (acute) to the average of the previous 4 weeks (chronic).
+- Workload Metric: Session-RPE (Rate of Perceived Exertion) x duration (minutes).
+- Measurement Frequency: Daily morning HRV readings to establish a rolling 7-day average.
+
+Likely mechanisms
+- Autonomic Nervous System Balance: HRV reflects the balance between sympathetic (fight or flight) and parasympathetic (rest and digest) activity. 
+- Somatic Tissue Overload: Low HRV serves as an early indicator of systemic fatigue and reduced adaptive capacity before physical pain or injury manifests.
+- Homeostasis: Stable HRV indicates the body is successfully maintaining homeostasis despite high physical stress.
+
+Implementation note
+Do not look at training volume in isolation. A high training spike (ACWR > 1.5) should be met with caution, especially if the athlete's 7-day HRV average is trending below their individual baseline.

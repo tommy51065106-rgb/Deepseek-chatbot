@@ -1,0 +1,31 @@
+Sports Injury Prevention Evidence Summary
+Source context: Forelli et al. 2024, Cureus.
+
+
+Main efficacy finding
+A holistic approach integrating physical rehabilitation, psychological resilience, and nutritional strategies is essential to reduce recurrent injury risk. Key findings include:
+- Biomechanical correction: Specific strength and neuromuscular training reduce load on vulnerable tissues.
+- Psychological interventions: Addressing fear-avoidance and anxiety improves return-to-play outcomes.
+- Nutritional support: Targeted nutrient timing and micronutrient intake (Vitamin D/Calcium) support tissue repair and bone density.
+
+Specific findings in this analysis
+The review identifies key movement deficiencies and their associated risks:
+- Anterior Pelvic Tilt: Linked to hamstring strains and lower back pain.
+- Knee Valgus: A primary factor in ACL injuries and patellofemoral pain.
+- Excessive Pronation: Associated with plantar fasciitis and stress fractures.
+- Sleep: Athletes sleeping <7 hours per night have a significantly higher injury risk.
+
+Practical dosage and protocol ranges used in the literature
+- Sleep: Minimum 7-9 hours for neuromuscular recovery.
+- Carbohydrates: 40-90g/hour during intense effort to delay fatigue.
+- Protein: 20-30g post-exercise to maximize muscle repair.
+- Bone Health: 800 IU/day Vitamin D and 2,000 mg Calcium.
+- Loading Management: Use of GPS and heart rate monitors to prevent overtraining.
+
+Likely mechanisms
+- Improved Neuromuscular Control: Training optimizes motor patterns and joint stability.
+- Faster Tissue Repair: Protein and antioxidants (Vitamin C/E) reduce oxidative stress and speed recovery.
+- Psychological Buffering: Mindfulness and goal-setting reduce reinjury anxiety, preventing compensatory (injury-prone) movement patterns.
+
+Implementation note
+The "Control to Chaos" continuum should guide rehabilitation, moving from stable, predictable exercises to high-intensity, unpredictable sport-specific movements.

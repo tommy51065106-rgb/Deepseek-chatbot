@@ -30,7 +30,13 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+.env.*
+!.env.example
+
+# local persisted chat memory
+memory-store/
 
 # typescript
 *.tsbuildinfo
